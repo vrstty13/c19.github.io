@@ -1,6 +1,4 @@
-# c19.github.io
-
-Proyek Tim C-19
+# Copyright © 2021 Voyage.com - C019 TEAM PROJECT DTS FGA
 
 Link hasil proyek
 
