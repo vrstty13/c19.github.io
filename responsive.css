@@ -55,4 +55,42 @@
       width: 100%;
       margin: 0;
     }
+
+    footer {
+      text-align: center;
+    }
   }
+
+  /* Untuk Smartphone */
+@media all and (max-width: 670px) {
+	.header-right {
+		display: none;
+	}
+	.menu-icon {
+		display: block !important;
+		margin-right: 15px;
+		cursor: pointer;
+		transition: all 0.5s;
+	}
+	
+	.menu-icon:hover {
+		color: rgba(255, 255, 255, 0.3);
+	}
+	
+	.search {
+	border: none;
+	position: absolute;
+  margin-top: 18px;
+  margin-left: 130px;
+	}
+	
+	.searching {
+		display: none !important;
+	}
+
+	button {
+		float: left;
+		background-size: 30px;
+	}
+	
+}
