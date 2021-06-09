@@ -157,6 +157,88 @@ button {
   clear: left;
 }
 
+.tiket-pesawat {
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #e7f3fe;
+}
+
+.pilihan-perjalanan {
+    float: left;
+    width: 25%;
+}
+
+.asal {
+    margin-top: 100px;
+    text-align: left;
+}
+
+.pilih {
+    padding: 5px;
+    font-size: 15px;
+}
+
+.select {
+    transform: scale(1.6);
+    margin-right: 10px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+.tempat {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.waktu {
+    width: 25%;
+    float: left;
+}
+
+form p {
+    margin-bottom: 5px;
+}
+
+.Jumlah {
+    width: 25%;
+    float: left;
+}
+
+.jumlah-orang {
+    padding: 10px 18px;
+    margin-bottom: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.waktu-input {
+    padding: 12px 20px;
+    margin-bottom: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.cari {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #ddd;
+    box-sizing: border-box;
+}
+
 .destination-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
