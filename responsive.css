@@ -1,97 +1,95 @@
 /* Untuk Tablets */
 @media (max-width: 1000px) {
-    .destination {
-      width: 50%;
-      margin-bottom: 50px;
-    }
-    
-    .top-wrapper h1 {
-      font-size: 32px;
-    }
-    
-    .heading h2 {
-      font-size: 20px;
-    }
-    
-    .testimoni{
-      width: 40%;
-    }
-    
-    .testimoni p{
-      font-size: 15px;
-    }
+  .destination {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+  }
+  
+  .testimoni{
+    width: 40%;
+  }
+  
+  .testimoni p{
+    font-size: 15px;
+  }
   
   }
   
-  /* Untuk Smartphones */
-  @media (max-width: 670px) {
-    .destination {
-      width: 100%;
-    }
-      
-    .btn {
-      width: 100%;
-    }
+/* Untuk Smartphones */
+@media (max-width: 670px) {
+  .destination {
+    width: 100%;
+  }
     
-    .facebook {
-      margin-bottom: 10px;
-    }
-    
-    .top-wrapper {
-      text-align: left;
-    }
-    
-    .top-wrapper h1 {
-      font-size: 24px;
-      line-height: 36px;
-    }
-    
-    .top-wrapper p {
-      font-size: 14px;
-      line-height: 20px;
-    }
-    
-    .testimoni{
-      width: 100%;
-      margin: 0;
-    }
-
-    footer {
-      text-align: center;
-    }
+  .btn {
+    width: 100%;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .testimoni{
+    width: 100%;
+    margin: 0;
   }
 
-  /* Untuk Smartphone */
-  @media all and (max-width: 670px) {
-    .header-right {
-      display: none;
-    }
-    
-    .menu-icon {
-      display: block !important;
-      margin-right: 15px;
-      cursor: pointer;
-      transition: all 0.5s;
-    }
-    
-    .menu-icon:hover {
-      color: rgba(255, 255, 255, 0.3);
-    }
-    
-    .search {
-      border: none;
-      position: absolute;
-      margin-top: 18px;
-      margin-left: 150px;
-    }
-    
-    .searching {
-      display: none !important;
-    }
-
-    button {
-      float: left;
-      background-size: 30px;
-    }
-    
+  footer {
+    text-align: center;
   }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .header-right {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block !important;
+    margin-right: 15px;
+    cursor: pointer;
+    transition: all 0.5s;
+  }
+  
+  .menu-icon:hover {
+    color: rgba(255, 255, 255, 0.3);
+  }
+  
+  .search {
+    border: none;
+    position: absolute;
+    margin-top: 20px;
+  }
+  
+  .searching {
+    display: none !important;
+  }
+
+  button {
+    float: left;
+    background-size: 30px;
+  }
+}
