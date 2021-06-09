@@ -1,5 +1,5 @@
 # C019 TEAM PROJECT DTS FGA
 
-Link hasil proyek
+Link Project
 
 https://markhadi-web.github.io/c19.github.io/
