@@ -1,4 +1,4 @@
-# Copyright © 2021 Voyage.com - C019 TEAM PROJECT DTS FGA
+# C019 TEAM PROJECT DTS FGA
 
 Link hasil proyek
 
