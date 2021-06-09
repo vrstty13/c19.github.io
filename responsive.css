@@ -54,6 +54,14 @@
     width: 100%;
     margin: 0;
   }
+  
+  .Jumlah {
+        width: 50%;
+    }
+
+  .waktu {
+        width: 50%;
+    }
 
   footer {
     text-align: center;
@@ -91,4 +99,11 @@
     float: left;
     background-size: 30px;
   }
+      .Jumlah {
+        width: 100%;
+    }
+
+    .waktu {
+        width: 100%;
+    }
 }
